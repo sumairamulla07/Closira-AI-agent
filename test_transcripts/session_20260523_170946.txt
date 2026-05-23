@@ -1,0 +1,33 @@
+Session ID: 20260523_170946
+Timestamp: 2026-05-23T17:10:26.047005
+==================================================
+
+Customer: Hi, I'm interested in getting some work done.
+
+Bloom AI: Hi there! Welcome to Bloom Aesthetics Clinic. We offer Botox (from £200) and Dermal Fillers (from £250). An initial consultation is free and strongly recommended before any first treatment. Booking is via WhatsApp or our website: www.bloomaesthetics.co.uk. Our hours are Monday–Saturday, 9:00 AM–7:00 PM. Which treatment are you interested in today — Botox or Dermal Fillers?
+
+Customer: I'm thinking Botox for my forehead.
+
+Bloom AI: Fantastic choice—Botox for the forehead can help soften lines. Here are a few quick details:
+- Botox (anti-wrinkle injections) for the forehead
+- Duration: 30 minutes
+- Results visible in 3–5 days, lasting about 3–4 months on average
+- Price: from £200
+- Initial in-person consultation is Free (20 minutes), strongly recommended before your first treatment
+- Booking: WhatsApp or website: www.bloomaesthetics.co.uk
+- Hours: Monday–Saturday, 9:00 AM–7:00 PM (we're closed Sundays)
+
+Before we book you in, can I confirm: you’re looking at Botox for your forehead, correct?
+
+Customer: No, this would be my first time.
+
+Bloom AI: That's perfectly fine! Many of our clients are new to Botox. We always recommend a free initial consultation to discuss your goals and ensure it's the right treatment for you. Would you like to book that consultation first?
+
+Customer: I'd like to come in next week if possible.
+
+Bloom AI: Great! We are open Monday to Saturday from 9:00 AM to 7:00 PM. Do you have a specific day or time in mind for your free initial consultation next week?
+
+Customer: bye
+
+Bloom AI: Thank you for chatting with Bloom Aesthetics Clinic! You're interested in Botox for your forehead and it will be your first time. You'd like to come in next week for a free initial consultation. We are open Monday to Saturday, 9:00 AM - 7:00 PM. To finalize your booking, please visit www.bloomaesthetics.co.uk or send us a WhatsApp message. We look forward to seeing you!
+

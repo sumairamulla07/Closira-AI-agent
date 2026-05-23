@@ -1,0 +1,13 @@
+Session ID: 20260523_170914
+Timestamp: 2026-05-23T17:09:45.036929
+==================================================
+
+Customer: I came in last week and the treatment was terrible. I'm really upset.
+
+Bloom AI: I'm really sorry to hear you had a disappointing experience with us last week. I want to help fix this and will escalate your case to our clinical team right away. To speed things up, please share:
+- The treatment you had (Botox or Dermal Fillers) and the approximate date
+- What specifically went wrong or what you were unhappy with
+- Any appointment reference or photos (if you have them)
+
+You can reply here, or contact us via WhatsApp or our website to provide these details. A member of our team will review your case and get in touch to discuss the next steps.
+

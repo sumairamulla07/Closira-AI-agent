@@ -1,0 +1,18 @@
+Session ID: 20260523_170844
+Timestamp: 2026-05-23T17:08:51.739026
+==================================================
+
+Customer: Hi! What are your Botox prices?
+
+Bloom AI: Hello! Our Botox treatments start from £200. Would you be interested in learning more about our Botox services?
+
+Customer: And how long does it last?
+
+Bloom AI: The results from Botox typically last for 3 to 4 months on average.
+
+To help me understand how I can best assist you, could you tell me what treatment you are most interested in?
+
+Customer: Great, thanks that's all
+
+Bloom AI: It sounds like you're interested in our Botox treatments, and you'd like to know about the pricing and duration of the results. Our Botox starts from £200, and the effects generally last between 3 to 4 months. Since you've indicated you have all the information you need, I'll close our chat for now. If you'd like to book an appointment or have any further questions, please feel free to reach out via our website or WhatsApp. Goodbye!
+

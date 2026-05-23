@@ -1,0 +1,88 @@
+{
+  "business": {
+    "name": "Bloom Aesthetics Clinic",
+    "tagline": "Your trusted aesthetic wellness destination",
+    "hours": {
+      "open": "Monday to Saturday, 9:00 AM – 7:00 PM",
+      "closed": "Sundays and public holidays"
+    },
+    "contact": {
+      "booking_channels": ["WhatsApp", "Website"],
+      "website": "www.bloomaesthetics.co.uk"
+    }
+  },
+  "services": [
+    {
+      "name": "Botox",
+      "price_from": 200,
+      "currency": "GBP",
+      "description": "Anti-wrinkle injections targeting forehead lines, crow's feet, and frown lines.",
+      "duration_minutes": 30,
+      "notes": "Results visible in 3–5 days, lasting 3–4 months on average."
+    },
+    {
+      "name": "Dermal Fillers",
+      "price_from": 250,
+      "currency": "GBP",
+      "description": "Lip fillers, cheek augmentation, and nasolabial fold treatments.",
+      "duration_minutes": 45,
+      "notes": "Results are immediate and last 6–12 months depending on area and product used."
+    },
+    {
+      "name": "Initial Consultation",
+      "price_from": 0,
+      "currency": "GBP",
+      "description": "Free in-person consultation to assess suitability, discuss goals, and recommend treatments.",
+      "duration_minutes": 20,
+      "notes": "Strongly recommended before any first treatment."
+    }
+  ],
+  "booking_policy": {
+    "how_to_book": "Bookings can be made via WhatsApp or through the website.",
+    "cancellation_policy": "24 hours notice required for cancellations or rescheduling. Late cancellations may incur a fee.",
+    "deposit_required": false
+  },
+  "escalation_triggers": [
+    "Medical questions or clinical concerns",
+    "Pricing negotiation or discount requests",
+    "Complaints or expressions of dissatisfaction",
+    "More than 2 consecutive questions the AI cannot answer from the SOP",
+    "Explicit request to speak to a human",
+    "Mentions of allergies, medications, or health conditions",
+    "Legal or liability concerns"
+  ],
+  "faqs": [
+    {
+      "question": "What are your opening hours?",
+      "answer": "We are open Monday to Saturday from 9:00 AM to 7:00 PM. We are closed on Sundays and public holidays."
+    },
+    {
+      "question": "How much does Botox cost?",
+      "answer": "Botox treatments start from £200. The final price depends on the number of areas treated. We recommend a free consultation to get a personalised quote."
+    },
+    {
+      "question": "How much do fillers cost?",
+      "answer": "Dermal fillers start from £250. Pricing varies depending on the type of filler and the area being treated. A free consultation can help you understand the exact cost for your goals."
+    },
+    {
+      "question": "Is the consultation free?",
+      "answer": "Yes! Initial consultations are completely free of charge. We recommend booking one before your first treatment so we can assess your suitability and discuss your goals."
+    },
+    {
+      "question": "How do I book an appointment?",
+      "answer": "You can book via WhatsApp or through our website at www.bloomaesthetics.co.uk. We require at least 24 hours notice for any cancellations or rescheduling."
+    },
+    {
+      "question": "How long does Botox last?",
+      "answer": "Results from Botox are typically visible within 3–5 days and last around 3–4 months on average. Maintenance appointments are recommended to sustain results."
+    },
+    {
+      "question": "How long do fillers last?",
+      "answer": "Dermal filler results are immediate and typically last between 6–12 months, depending on the area treated and the product used."
+    },
+    {
+      "question": "How long does a treatment take?",
+      "answer": "A Botox session typically takes around 30 minutes. Dermal filler treatments take approximately 45 minutes. Initial consultations are around 20 minutes."
+    }
+  ]
+}

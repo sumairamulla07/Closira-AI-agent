@@ -1,0 +1,34 @@
+Session ID: 20260523_171026
+Timestamp: 2026-05-23T17:11:41.923582
+==================================================
+
+Customer: Hello! What services do you offer?
+
+Bloom AI: Hello! Welcome to Bloom Aesthetics Clinic. We offer:
+- Botox (From £200): anti-wrinkle injections targeting forehead lines, crow's feet, and frown lines. Duration: 30 min. Results visible in 3–5 days, lasting 3–4 months on average.
+- Dermal Fillers (From £250): lip fillers, cheek augmentation, and nasolabial fold treatments. Duration: 45 min. Results are immediate and last 6–12 months depending on area and product used.
+- Initial Consultation (Free): in-person consultation to assess suitability, discuss goals, and recommend treatments. Duration: 20 min. Strongly recommended before any first treatment.
+
+Booking: Bookings can be made via WhatsApp or through the website: www.bloomaesthetics.co.uk.
+Hours: Monday to Saturday, 9:00 AM – 7:00 PM. Closed Sundays and public holidays.
+
+Which treatment are you interested in exploring today? Botox, Dermal Fillers, or would you like to book the Free Initial Consultation to discuss options?
+
+Customer: How much is a consultation?
+
+Bloom AI: Great question — The Initial Consultation is Free. It’s an in-person 20-minute session to assess suitability, discuss your goals, and recommend treatments. It’s strongly recommended before any first treatment. Booking can be made via WhatsApp or through our website: www.bloomaesthetics.co.uk.
+
+Would you like to book the Free Initial Consultation, or do you already know if you'd prefer Botox or Dermal Fillers?
+
+Customer: What days are you open?
+
+Bloom AI: Bloom Aesthetics Clinic is open Monday to Saturday, 9:00 AM – 7:00 PM. We’re closed Sundays and public holidays. Which treatment are you interested in today — Botox or Dermal Fillers?
+
+Customer: I'd like to book a consultation for fillers.
+
+Bloom AI: Fantastic choice. The Free Initial Consultation for Dermal Fillers is a 20-minute in-person session to assess suitability and discuss goals. You can book via WhatsApp or on www.bloomaesthetics.co.uk. Before I book it, could you tell me: have you had any aesthetic treatments before?
+
+Customer: thanks that's all, bye
+
+Bloom AI: It was a pleasure assisting you! To summarize, you're interested in booking a consultation for Dermal Fillers. We've confirmed our opening hours and that the initial consultation is free. You haven't yet confirmed if you've had previous aesthetic treatments. The next step would be to book your Free Initial Consultation via WhatsApp or our website (www.bloomaesthetics.co.uk) to discuss your goals and suitability for fillers. Goodbye!
+

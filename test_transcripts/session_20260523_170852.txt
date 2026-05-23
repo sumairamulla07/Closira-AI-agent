@@ -1,0 +1,16 @@
+Session ID: 20260523_170852
+Timestamp: 2026-05-23T17:09:13.656260
+==================================================
+
+Customer: Do you offer laser hair removal?
+
+Bloom AI: Thanks for checking Bloom Aesthetics Clinic. We currently offer Botox (from £200) and Dermal Fillers (from £250), plus a free initial in-person consultation to assess suitability. Laser hair removal isn’t listed as one of our services at the moment. If you’d like, I can share more about Botox or Dermal Fillers, or help you start a booking via WhatsApp or our website. Which treatment are you interested in today—Botox or Dermal Fillers?
+
+Customer: What about PRP therapy?
+
+Bloom AI: I don't have information about PRP therapy in our service list. We offer Botox (anti-wrinkle injections) and Dermal Fillers (for lip fillers, cheek augmentation, and nasolabial folds). Would you be interested in learning more about these treatments?
+
+Customer: bye
+
+Bloom AI: Thank you for visiting Bloom Aesthetics Clinic. You inquired about laser hair removal and PRP therapy, which are not services we currently offer. Our available treatments include Botox and Dermal Fillers. We recommend booking a free initial consultation to discuss your goals and suitability for these treatments. You can book via our website at www.bloomaesthetics.co.uk or WhatsApp. Goodbye!
+
